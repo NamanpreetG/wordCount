@@ -27,7 +27,8 @@ public class count {
 			}
 		}
 		
-		System.out.println("Word Count: " +count);
+		System.out.println("Word Count:    " +count);
+		System.out.println("Thank you for using the service");
 		
 		
 	}
